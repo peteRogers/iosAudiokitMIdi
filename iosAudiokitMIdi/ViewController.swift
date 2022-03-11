@@ -73,7 +73,7 @@ class ViewController: UIViewController,  AVCaptureVideoDataOutputSampleBufferDel
                 
                 redBoxes.append(r)
                 nose = p
-                print(nose!.location)
+              //  print(nose!.location)
             }
             
             //             if let p = try? result.recognizedPoint(.leftWrist){
